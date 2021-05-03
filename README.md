@@ -1,2 +1,2 @@
 # Interferometry-Simulations
-This repository contains interferometry simulations and GNU radio tutorials
+This repository contains radio interferometry simulation examples and introductory examples worked on GNU Radio.
